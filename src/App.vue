@@ -1,9 +1,9 @@
 <template>
   <div>
     <Header />
-    <Carousel />
     <div>
-      Content
+      <Carousel />
+      <Menu />
     </div>
     <Footer />
   </div>
@@ -13,8 +13,10 @@
 import Header from "@/components/Header.vue";
 import Carousel from "@/components/Slider.vue";
 import Footer from "@/components/Footer.vue";
+import Menu from "@/components/Menu.vue";
+
 export default {
-  components: { Header, Footer, Carousel }
+  components: { Header, Footer, Carousel, Menu }
 }
 </script>
 

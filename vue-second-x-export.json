@@ -1,0 +1,114 @@
+{
+  "products" : {
+    "-LEmaPHHgI3SgqTKu9u6" : {
+      "desc" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+      "img" : "pizza_pep.png",
+      "name" : "Pepperoni",
+      "price" : 20,
+      "type" : "pizza"
+    },
+    "-LEmaPHWXzdUZ_5ohJPa" : {
+      "desc" : "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+      "img" : "pizza_veggie.png",
+      "name" : "Veggie",
+      "price" : 25,
+      "type" : "pizza"
+    },
+    "-LEmaPHYAYfVEsQETNZc" : {
+      "desc" : "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "img" : "salat_meat.png",
+      "name" : "Meatzza",
+      "price" : 25,
+      "type" : "pizza"
+    },
+    "-LEmaPHZ37QJL1IWficV" : {
+      "desc" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+      "img" : "pizza_hawai.png",
+      "name" : "Hawai",
+      "price" : 25,
+      "type" : "pizza"
+    },
+    "-LEmaPHecaATk_4CsrUS" : {
+      "desc" : "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+      "img" : "pizza_bbq.png",
+      "name" : "BBQ",
+      "price" : 25,
+      "type" : "pizza"
+    },
+    "-LEmaPHoZMzLDoLOPaC7" : {
+      "desc" : "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "img" : "pizza_deluxe.png",
+      "name" : "Deluxe",
+      "price" : 25,
+      "type" : "pizza"
+    },
+    "-LEpjA-RXGxfGJzJVIq2" : {
+      "desc" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+      "img" : "burger_deluxe.png",
+      "name" : "Deluxe",
+      "price" : 25,
+      "type" : "burgers"
+    },
+    "-LEpjiJYUwudct8Of238" : {
+      "desc" : "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+      "img" : "burger_veggie.png",
+      "name" : "Veggie",
+      "price" : 25,
+      "type" : "burgers"
+    },
+    "-LEpkJjTHwHHTkjN81pI" : {
+      "desc" : "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "img" : "burger_chicken.png",
+      "name" : "Chicken",
+      "price" : 25,
+      "type" : "burgers"
+    },
+    "-LEpo_IdqBFaS1xKK1wp" : {
+      "desc" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+      "img" : "salat_nuts.png",
+      "name" : "Nuts",
+      "price" : 25,
+      "type" : "salat"
+    },
+    "-LEpouW8C-umWENbq350" : {
+      "desc" : "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "img" : "salat_meat.png",
+      "name" : "Meat",
+      "price" : 25,
+      "type" : "salat"
+    },
+    "-LEpouW8C-umWENbq354" : {
+      "desc" : "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+      "img" : "salat_chicken.png",
+      "name" : "Chicken",
+      "price" : 25,
+      "type" : "salat"
+    },
+    "-LErlCZn5tjRJU3rMx0n" : {
+      "desc" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+      "img" : "desert_choco.png",
+      "name" : "ChocoBomb",
+      "price" : 25,
+      "type" : "dessert"
+    },
+    "-LGlOfQBsBPKdqgYLiLJ" : {
+      "desc" : "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+      "img" : "desert_cream.png",
+      "name" : "Ice cream",
+      "price" : 25,
+      "type" : "dessert"
+    },
+    "-LGlOfQBsBPKdqgYLiLh" : {
+      "desc" : "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "img" : "desert_deluxe.png",
+      "name" : "Deluxe",
+      "price" : 25,
+      "type" : "dessert"
+    }
+  },
+  "users" : {
+    "-LJVJNFaRnLVMW5mf83f" : {
+      "email" : "francis@gmail.com"
+    }
+  }
+}
